@@ -33,7 +33,7 @@ Based on the findings, the following recommendations can be made:
 
 3. Further Experimentation: Explore other areas for improvement in the shopper hiring funnel. Consider testing additional changes, such as optimizing the activation process for prepaid debit cards or evaluating the impact of completing the online orientation.
 
-## Slides and Appendix
+## Slides
 
 Please refer to the attached [slides](https://github.com/ZimengLiu923/AB-Testing/blob/main/AB_Test_slides.pdf) for a summary of the findings and recommendations.
 
